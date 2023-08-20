@@ -1,1 +1,0 @@
-This folder contains the results of our 5 CheXpert models applied onto the MIMIC dataset.
